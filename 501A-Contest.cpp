@@ -6,7 +6,7 @@
 using namespace std;
 
 
-//Codeforces Round #160 (Div. 2), problem: A. Roma and Lucky Numbers
+//Codeforces Round #285 (Div. 2), problem: A. Contest
 int main()
 
 {
