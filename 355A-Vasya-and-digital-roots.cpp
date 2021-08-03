@@ -29,9 +29,9 @@ return 0;
 }
 
 
-string ans=to_string(d);
-
-for(int i=1;i<k;i++)
+string ans=to_string(d-1);
+ans+=1;
+for(int i=2;i<k;i++)
 {
     ans+='0';
 }
