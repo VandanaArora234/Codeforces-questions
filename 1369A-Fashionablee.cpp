@@ -24,13 +24,14 @@ int main()
    
    while(t--)
    {
-       ll int n;cin>>n;
+       ll int n;
+       cin>>n;
        
-       if(n%4==0)
-       cout<<"YES"<<endl;
+       if(n%4 == 0)
+       cout<<"Yes"<<endl;
        
        else
-       cout<<"NO"<<endl;
+       cout<<"No"<<endl;
    }
     
 }
