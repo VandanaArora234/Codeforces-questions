@@ -22,13 +22,13 @@ int main()
 int n;
 cin>>n;
 
-double sm = 0;
+double ad = 0;
 double arr[n];
 for(int i=0;i<n;i++){
 	cin>>arr[i];
-	sm += (arr[i]/100);
+	ad += (arr[i]/100);
 }
 
-cout<<((sm/n)*100)<<endl;
+cout<<((ad/n)*100)<<endl;
  
 }
